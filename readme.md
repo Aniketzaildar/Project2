@@ -1,5 +1,5 @@
 # New Project 
 
 This project was created from local system.
-Created by Shradha Khapra
-Created by Aniket Zaildar
+Created by Shradha Khapra.
+Created by Aniket Zaildar.
